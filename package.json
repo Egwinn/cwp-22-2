@@ -1,0 +1,19 @@
+{
+  "name": "cwp-22-2",
+  "version": "1.0.0",
+  "description": "The twenty second laboratory work on Cross Platform Programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Egwinn/cwp-22-2.git"
+  },
+  "author": "Egwinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Egwinn/cwp-22-2/issues"
+  },
+  "homepage": "https://github.com/Egwinn/cwp-22-2#readme"
+}
